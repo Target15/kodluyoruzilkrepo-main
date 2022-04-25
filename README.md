@@ -11,7 +11,7 @@ Kodluyoruz Eğitim kapsamında açtığım ilk repo
 
 ***Gebze Teknik Üniversite***
 
-[Github ilk repoma gitmek için tıkla](https://github.com/Target15/kodluyoruzilkrepo.git)
+[Github ilk repoma gitmek için tıkla](https://github.com/Target15/kodluyoruzilkrepo-main)
 
 ---
 
