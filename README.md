@@ -25,7 +25,7 @@ Kodluyoruz Eğitim kapsamında açtığım ilk repo
 
 ---
 
-[![My profile](https://r.resimlink.com/iSGZyE0v9.png)](https://resimlink.com/iSGZyE0v9)
+[![My Patika.dev profile](https://r.resimlink.com/iSGZyE0v9.png)](https://resimlink.com/iSGZyE0v9)
 
 ---
 
